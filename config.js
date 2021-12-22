@@ -1,13 +1,13 @@
 module.exports = {
   databaseToken: 'mongodb+srv://Zone:Zone@cluster0.z2bwm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',
 
-  mainGuild: '915249589743935529',
-  logChannel: '919252829531680799',
-  mailChannel: '915250190393421904',
-  modRoles: ['915250160823578635'],
+  mainGuild: 'Guild Id',
+  logChannel: 'Log Channel',
+  mailChannel: 'Category Id',
+  modRoles: ['role id 1', 'role id 2'],
 
-  status: 'for dms!',
-  color: 0xfcfcfc,
-  prefix: 'm?',
+  status: 'Made By The Ice',
+  color: "embed color",
+  prefix: 'prefix',
   msgPrefix: 'Team Ice',
 };
