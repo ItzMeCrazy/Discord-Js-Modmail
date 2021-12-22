@@ -15,7 +15,7 @@ To setup the bot, head over to [Discord's developer portal](https://discord.com/
 
 ```
     token: 'YOUR BOT TOKEN HERE',
-    databaseToken: 'YOUR MONGODB TOKEN HERE', // We use MongoDB to store data! [You Can Get Mongo Db Url From The Ice Too](https://discord.gg/3D4PkVyrUt)
+    databaseToken: 'YOUR MONGODB TOKEN HERE', // We use MongoDB to store data! 
 
     mainGuild: '', // Main ModMail Guild ID (server)
     logChannel: '', // Channel ID of where you want ModMail Logs
@@ -27,3 +27,5 @@ To setup the bot, head over to [Discord's developer portal](https://discord.com/
     prefix: '!', // Bot prefix for commands
     msgPrefix: 'Ice Team' // The prefix that shows on messages (ex. Staff pink,: Hi!)
 ```
+
+[You Can Get Mongo Db Url From The Ice](https://discord.gg/3D4PkVyrUt)
