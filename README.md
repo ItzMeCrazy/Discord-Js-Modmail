@@ -29,3 +29,4 @@ To setup the bot, head over to [Discord's developer portal](https://discord.com/
 ```
 
 [You Can Get Mongo Db Url From The Ice](https://discord.gg/3D4PkVyrUt)
+Made By Pink ( asbee )
